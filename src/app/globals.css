@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Base neutra da Etapa 1. Tipografia e identidade visual definitivas entram na etapa de design. */
+@theme inline {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
